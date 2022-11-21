@@ -47,7 +47,7 @@ export default function Login() {
     return (
         <>
         <ToastContainer/>
-            <section className="container">
+            <section className="container pt-2">
                 <img src={Logo} alt="logotip" />
                 <div className="wrapper mx-auto">
                     <h3>LOGIN</h3>
